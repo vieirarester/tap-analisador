@@ -15,7 +15,7 @@ Observações:
 
 
 2. o programa deverá criar uma pasta com o nome **resultados** e, dentro do diretório, deve-se possuir os seguintes arquivos:
-* para cada episódio, possuir um arquivo chamado episodio-<nome-do-arquivo>.json contendo um array de objetos resumindo cada palavra, ordenado de forma crescente. 
+* para cada episódio, possuir um arquivo chamado episodio-(nome-do-arquivo).json contendo um array de objetos resumindo cada palavra, ordenado de forma crescente. 
 Ex:
 ```json
 [
@@ -28,7 +28,7 @@ Ex:
         “frequencia”: 1311
     }, … ]
 ```
-* para cada temporada, possuir um arquivo chamado temporada-<nome-do-diretorio>.json contendo um array de objetos resumindo cada palavra, ordenado de forma crescente.
+* para cada temporada, possuir um arquivo chamado temporada-(nome-do-diretorio).json contendo um array de objetos resumindo cada palavra, ordenado de forma crescente.
 
 O programa deverá ser escrito na linguagem de programação escolhida em sala de aula utilizando o paradigma funcional.
 
