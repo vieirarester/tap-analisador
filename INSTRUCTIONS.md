@@ -23,5 +23,5 @@
 Executar o programa usando o comando:
 
 ```bash
-elixir analisador_frequencia.ex --diretorio caminho/para/legendas
+elixir analisador_frequencia.ex --d caminho/para/legendas
 
